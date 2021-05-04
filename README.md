@@ -6,3 +6,6 @@ This repository is built step by step in the tutorial.
 git pull
    1. fetch
    2. merge
+   3. pull
+  
+pull is a combination of fetch and merge
