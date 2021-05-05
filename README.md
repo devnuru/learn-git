@@ -9,3 +9,7 @@ git pull
    3. pull
   
 pull is a combination of fetch and merge
+Git Push Branch to GitHub
+let's try to create a new local branch, and push that to GitHub.
+Start by creating a branch, like we did earlier:
+git checkout -b update-readme
