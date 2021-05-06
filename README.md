@@ -9,5 +9,3 @@ git pull
    3. pull
   
 pull is a combination of fetch and merge
-from html branch
-git push branch to GitHub
